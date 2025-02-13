@@ -4,7 +4,7 @@
     "target_path": "device/oneplus/sm8150-common"
   },
   {
-    "repository": "crdroidandroid/proprietary_vendor_oneplus-guacamole",
-    "target_path": "vendor/oneplus/guacamole"
+    "repository": "eepymeowers/proprietary_vendor_oneplus-guacamoles",
+    "target_path": "vendor/oneplus/guacamoles"
   }
 ]

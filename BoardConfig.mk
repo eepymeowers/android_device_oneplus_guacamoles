@@ -7,7 +7,7 @@
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8150-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/oneplus/guacamole
+DEVICE_PATH := device/oneplus/guacamoles
 
 # Display
 TARGET_SCREEN_DENSITY := 560
@@ -35,4 +35,4 @@ TARGET_NO_RECOVERY := true
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/init/fstab.qcom
 
 # Include the proprietary files BoardConfig.
-include vendor/oneplus/guacamole/BoardConfigVendor.mk
+include vendor/oneplus/guacamoles/BoardConfigVendor.mk

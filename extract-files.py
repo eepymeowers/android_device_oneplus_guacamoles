@@ -23,7 +23,7 @@ blob_fixups: blob_fixups_user_type = {
 }  # fmt: skip
 
 module = ExtractUtilsModule(
-    'guacamole',
+    'guacamoles',
     'oneplus',
     namespace_imports=namespace_imports,
     blob_fixups=blob_fixups,
